@@ -13,7 +13,8 @@ About me...
 - ✔️: Python
 - ✔️: Java
 - ✔️: Javascript
-- ✔️: Web (JS, HTML, CSS)
+- ✔️: HTML/CSS
+- ✔️: Typescript
 
 # Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainbowJM&show_icons=true&theme=synthwave)
